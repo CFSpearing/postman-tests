@@ -10,7 +10,20 @@
 			"name": "New Request",
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": "https://www.baeldung.com/linux/kubernetes-delete-all-pods",
+					"protocol": "https",
+					"host": [
+						"www",
+						"baeldung",
+						"com"
+					],
+					"path": [
+						"linux",
+						"kubernetes-delete-all-pods"
+					]
+				}
 			},
 			"response": []
 		}
